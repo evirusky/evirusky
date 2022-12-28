@@ -2,7 +2,7 @@
 #### Welcome to my personal repository where you can find all the projects that I'm working on or just finished
 
 Glad to have you here! Take a look and if you have any issue don't doubt to write me  
-**enjoy! :)** <img align="right" src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" width="150" height="150" />
+**enjoy! :)** <img align="right" src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" width="200" height="200" />
 
 More about me:  
 - 📚 I’m currently studying at UA the grade of Computer Science
